@@ -1,0 +1,9 @@
+# LEDs
+set_io          led[0]      99
+set_io          led[1]      98
+
+# Oscillator
+set_io          clk         21
+
+#PMOD I/O
+set_io  -pullup yes rst_btn 78
