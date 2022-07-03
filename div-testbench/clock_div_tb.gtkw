@@ -1,0 +1,27 @@
+[*]
+[*] GTKWave Analyzer v3.3.111 (w)1999-2020 BSI
+[*] Sat Jul  2 11:03:27 2022
+[*]
+[dumpfile] "/home/akash/icestick/Icestick_FPGA/div-testbench/clock_div_tb.vcd"
+[dumpfile_mtime] "Sat Jul  2 10:48:19 2022"
+[dumpfile_size] 4054
+[savefile] "/home/akash/icestick/Icestick_FPGA/div-testbench/clock_div_tb.gtkw"
+[timestart] 0
+[size] 1848 1006
+[pos] -1 -1
+*-18.777269 1958490 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] clock_divider_tb.
+[sst_width] 297
+[signals_width] 110
+[sst_expanded] 1
+[sst_vpaned_height] 281
+@28
+clock_divider_tb.uut.clk
+@22
+clock_divider_tb.uut.count[4:0]
+@28
+clock_divider_tb.uut.rst
+@29
+clock_divider_tb.uut.out
+[pattern_trace] 1
+[pattern_trace] 0
