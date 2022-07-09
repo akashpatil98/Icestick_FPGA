@@ -1,0 +1,32 @@
+[*]
+[*] GTKWave Analyzer v3.3.77 (w)1999-2016 BSI
+[*] Fri Jul 08 15:33:40 2022
+[*]
+[dumpfile] "C:\Icestick FPGA\Icestick_FPGA\block_RAM\block_ram_tb.vcd"
+[dumpfile_mtime] "Fri Jul 08 15:31:12 2022"
+[dumpfile_size] 5229
+[savefile] "C:\Icestick FPGA\Icestick_FPGA\block_RAM\block_ram_tb.gtkw"
+[timestart] 2420400
+[size] 1536 801
+[pos] -191 -191
+*-17.000000 2875230 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 197
+[signals_width] 154
+[sst_expanded] 1
+[sst_vpaned_height] 224
+@28
+block_ram_tb.clk
+@420
+block_ram_tb.i
+@22
+block_ram_tb.r_addr[3:0]
+block_ram_tb.r_data[7:0]
+@28
+block_ram_tb.r_en
+@22
+block_ram_tb.w_addr[3:0]
+block_ram_tb.w_data[7:0]
+@28
+block_ram_tb.w_en
+[pattern_trace] 1
+[pattern_trace] 0
